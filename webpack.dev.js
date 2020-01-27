@@ -14,9 +14,9 @@ module.exports = merge(config, {
 		host: 'localhost',
 		open: true,
 		compress: true,
-		port: 2018,
+		port: 1111,
 		historyApiFallback: true,
-		allowedHosts: ['localhost:2018'],
+		allowedHosts: ['localhost:1111'],
 	},
 	module: {
 		rules: [
