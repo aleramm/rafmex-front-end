@@ -1,0 +1,20 @@
+.client-container {
+	display: none;
+	justify-content: space-around;
+}
+.inactive-form {
+	display: none;
+}
+.active-client {
+	display: flex;
+}
+.cliente-title {
+	font-weight: 500;
+	color: #414141;
+}
+.cliente-description {
+	color: #414141;
+}
+.react-select-sucursal__indicator-separator {
+	display: none;
+}
