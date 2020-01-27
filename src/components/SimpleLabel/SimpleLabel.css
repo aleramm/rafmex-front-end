@@ -1,0 +1,19 @@
+.simple-label {
+	background-color: #ececec;
+	padding: 5px 10px;
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 3px;
+}
+.simple-label-title {
+	display: block;
+	font-size: 0.75rem;
+	margin-bottom: 6px;
+	font-weight: 500;
+}
+.simple-label-content {
+	font-size: 1rem;
+	margin: 0;
+	padding: 0;
+	font-weight: 400;
+}

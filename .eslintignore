@@ -1,0 +1,15 @@
+node_modules/
+**/node_modules
+public/
+build/
+dist/
+
+/.git
+/.vscode
+
+server.js
+.env
+.env-example
+webpack.config.js
+webpack.dev.js
+webpack.prod.js
