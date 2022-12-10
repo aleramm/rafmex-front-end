@@ -81,7 +81,7 @@
 		"@material-ui/pickers": "^3.1.2",
 		"clsx": "^1.0.4",
 		"core-js": "^3.1.4",
-		"express": "^4.17.1",
+		"express": "^4.17.3",
 		"flexboxgrid": "^6.3.1",
 		"history": "^4.9.0",
 		"immutability-helper": "~3.0.1",
